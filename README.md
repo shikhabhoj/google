@@ -1,1 +1,1 @@
-This is my first website (Google homepage) for practisinbg web development.
+This is my first website (Google homepage) for practising web development.
